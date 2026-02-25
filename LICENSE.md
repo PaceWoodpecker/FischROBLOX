@@ -98,4 +98,3 @@ Once you press `INSERT`, a clean and modern GUI will appear. It features:
 <div align="center">
 Made with ❤️ for the Roblox Community | **Roblox Fisch Script 2026**
 </div>
-```
